@@ -1,8 +1,9 @@
 # Batch-tutorials
 Experiments with batch files.
+
 # Objective
-Before there was scripting with Windows PowerShell, it was easier to make a batch file.
+Before there was scripting with Windows PowerShell, it was easier to make a batch file (and still is, in fact).  
+I will include batch files to show why they can be dangerous.
 
-I will include batch files that help show why they can be dangerous.
-
-Did you know Gmail will not send an e-mail with .bat files attached? Even if they are in a .zip archive?
+# License
+Distributed under MIT License.
